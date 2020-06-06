@@ -6,7 +6,9 @@ International License][cc-by-sa].
 **Videos:**
 
 [What is DigiByte?](https://youtu.be/bsHA7TBbbWE)
+
 [What are DigiAssets?](https://youtu.be/JoqOn5gTiqE)
+
 [What is Digi-ID?](https://youtu.be/pLrQycud5GI)
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
