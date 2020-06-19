@@ -7,6 +7,8 @@ International License][cc-by-sa].
 
 [What is DigiByte?](https://youtu.be/bsHA7TBbbWE)
 
+[DGB Currency](https://youtu.be/RSEijQXSfZQ)
+
 [What are DigiAssets?](https://youtu.be/JoqOn5gTiqE)
 
 [What is Digi-ID?](https://youtu.be/pLrQycud5GI)
