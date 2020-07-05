@@ -13,6 +13,8 @@ International License][cc-by-sa].
 
 [What is Digi-ID?](https://youtu.be/pLrQycud5GI)
 
+[Use-cases for the DigiByte Wallets](https://youtu.be/sRxpgJkvRK8)
+
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
